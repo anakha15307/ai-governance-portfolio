@@ -1,6 +1,6 @@
 # AI Governance Portfolio
 
-Independent AI governance case studies by **Anakha Vijayan** — IAPP AIGP-certified
+Independent AI governance case studies by **Anakha Vijayan**. IAPP AIGP-certified
 governance professional combining quantitative training, classroom communication,
 and hands-on LLM evaluation to turn model evidence into clear risk decisions,
 controls, and stakeholder-ready documentation.
@@ -25,7 +25,7 @@ Both studies follow the same analyst discipline:
 
 1. **Scope the system and its boundaries** before testing anything.
 2. **Separate likelihood from impact**, and inherent risk from residual risk.
-3. **Let the risk register determine the tests** — not the other way around.
+3. **Let the risk register determine the tests**: not the other way around.
 4. **Keep vendor evidence, analyst observations, and recommendations distinct.**
 5. **Map to NIST AI RMF** (Govern / Map / Measure / Manage) as an organizing
    tool, not a checklist.
