@@ -1,5 +1,7 @@
 # AI Governance Portfolio
 
+[![Release](https://img.shields.io/github/v/release/anakha15307/ai-governance-portfolio)](https://github.com/anakha15307/ai-governance-portfolio/releases/tag/v1.0)
+
 Independent AI governance case studies by **Anakha Vijayan**. IAPP AIGP-certified
 governance professional combining quantitative training, classroom communication,
 and hands-on LLM evaluation to turn model evidence into clear risk decisions,
